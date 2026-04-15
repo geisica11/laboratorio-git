@@ -1,6 +1,6 @@
 
 body {
-    background-color: #f8f9fa; 
+    background-color: #77b8fa; 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -9,12 +9,12 @@ body {
 }
 
 h2, h3 {
-    color: #343a40;
+    color: #14171a;
     font-weight: bold;
 }
 
 .card {
-    border-left: 5px solid #17a2b8;
+    border-left: 5px solid #b88d17;
     transition: transform 0.2s;
 }
 
